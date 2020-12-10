@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5438900029218683827
+  m_GuidHigh: 11338665651040755373
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5332104792803380197
+      m_GuidHigh: 185310804734996668
+    m_SerializedTextureGuid:
+      m_GuidLow: 9553415585686246486
+      m_GuidHigh: 15532143022738758442
+    m_Size: {x: 0.057, y: 0.057}
+    m_SpecifySize: 1
+    m_Name: LadoBola
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4688767676970561261
+      m_GuidHigh: 9713720137873368247
+    m_SerializedTextureGuid:
+      m_GuidLow: 7206846816009453305
+      m_GuidHigh: 7689389462470799194
+    m_Size: {x: 0.057, y: 0.057}
+    m_SpecifySize: 1
+    m_Name: LadoLogo
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5602505921028117032
+      m_GuidHigh: 208412801924047543
+    m_SerializedTextureGuid:
+      m_GuidLow: 356560610314149653
+      m_GuidHigh: 16161766752906217656
+    m_Size: {x: 0.057, y: 0.057058945}
+    m_SpecifySize: 1
+    m_Name: LadoLampada
+    m_Texture: {fileID: 2800000, guid: 66abdf15c1fc04f2b888b1a93b214ae0, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5462345914996087461
+      m_GuidHigh: 7479673674416182145
+    m_SerializedTextureGuid:
+      m_GuidLow: 2603160727126580883
+      m_GuidHigh: 8733506784372779960
+    m_Size: {x: 0.057, y: 0.057}
+    m_SpecifySize: 1
+    m_Name: LadoGlobo
+    m_Texture: {fileID: 2800000, guid: a1a09e9348e32420b8eb00f625a63379, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5163041225179086410
+      m_GuidHigh: 12984705936233477021
+    m_SerializedTextureGuid:
+      m_GuidLow: 9556912208466347648
+      m_GuidHigh: 12341734340746967066
+    m_Size: {x: 0.057, y: 0.057}
+    m_SpecifySize: 1
+    m_Name: LadoTelescopio
+    m_Texture: {fileID: 2800000, guid: d73b0680f90484a01a78765cfea546ab, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 4642618562974760899
+      m_GuidHigh: 12541392252241171337
+    m_SerializedTextureGuid:
+      m_GuidLow: 6074996060135005630
+      m_GuidHigh: 1446602911559750152
+    m_Size: {x: 0.057, y: 0.057}
+    m_SpecifySize: 1
+    m_Name: LadoMusica
+    m_Texture: {fileID: 2800000, guid: e03e9dbeb8ba544e08929002af5d1314, type: 3}

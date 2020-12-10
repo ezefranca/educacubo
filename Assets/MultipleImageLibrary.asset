@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: MultipleImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 4771487299635088638
+  m_GuidHigh: 16366741093305614720
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 4739128744137209686
+      m_GuidHigh: 5436162767179047346
+    m_SerializedTextureGuid:
+      m_GuidLow: 13021034444995643116
+      m_GuidHigh: 12197999100349078170
+    m_Size: {x: 0.005, y: 0.005}
+    m_SpecifySize: 1
+    m_Name: Principal
+    m_Texture: {fileID: 2800000, guid: de1746ec01d6b4b49a5ad7d28dff47a9, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5341324563429463545
+      m_GuidHigh: 10698370960535937463
+    m_SerializedTextureGuid:
+      m_GuidLow: 6092070625492110745
+      m_GuidHigh: 2143625506248285690
+    m_Size: {x: 0.005, y: 0.005}
+    m_SpecifySize: 1
+    m_Name: Musica
+    m_Texture: {fileID: 2800000, guid: eb0c8d9961f4548bfa5d655f0ab0bf1d, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5669507874942058520
+      m_GuidHigh: 295462584665044383
+    m_SerializedTextureGuid:
+      m_GuidLow: 1458983477780852758
+      m_GuidHigh: 7195037983803582696
+    m_Size: {x: 0.005, y: 0.005}
+    m_SpecifySize: 1
+    m_Name: Microscopio
+    m_Texture: {fileID: 2800000, guid: 364ab01659be143fe8280ee2ece8d963, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 4946409248543006909
+      m_GuidHigh: 16639052138759035778
+    m_SerializedTextureGuid:
+      m_GuidLow: 17653211131501973006
+      m_GuidHigh: 9916891713539045659
+    m_Size: {x: 0.005, y: 0.0050051706}
+    m_SpecifySize: 1
+    m_Name: Lampada
+    m_Texture: {fileID: 2800000, guid: 4e258e0ecdfef4fc1b7982b578e09f89, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 4727533095536347826
+      m_GuidHigh: 6999992891598367365
+    m_SerializedTextureGuid:
+      m_GuidLow: 3774674951538884322
+      m_GuidHigh: 8360718763888572136
+    m_Size: {x: 0.005, y: 0.005}
+    m_SpecifySize: 1
+    m_Name: Bola
+    m_Texture: {fileID: 2800000, guid: 8d0a3ee256de3462e87685346b3d0774, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5611671771479387255
+      m_GuidHigh: 14946456852552119170
+    m_SerializedTextureGuid:
+      m_GuidLow: 3776666082369430412
+      m_GuidHigh: 5700399922046087531
+    m_Size: {x: 0.005, y: 0.005}
+    m_SpecifySize: 1
+    m_Name: Globo
+    m_Texture: {fileID: 2800000, guid: d2e5638c69ca34696bb138ef86e31b4f, type: 3}
