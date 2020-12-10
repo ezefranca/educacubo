@@ -1,4 +1,4 @@
-## Mestrado profissional em Desenvolvimento de Jogos Digitais (PUC-SP)
+### Mestrado profissional em Desenvolvimento de Jogos Digitais (PUC-SP)
 
 <p align="center">
 <img class="mestrado" src="https://raw.githubusercontent.com/ezefranca/Damas/master/logo_mestrado.png" width="30%" height="30%">
