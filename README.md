@@ -1,7 +1,7 @@
 ### Mestrado profissional em Desenvolvimento de Jogos Digitais (PUC-SP)
 
 <p align="center">
-<img class="mestrado" src="https://raw.githubusercontent.com/ezefranca/Damas/master/logo_mestrado.png" width="30%" height="30%">
+<img class="mestrado" src="https://raw.githubusercontent.com/ezefranca/Damas/master/logo_mestrado_new.png" width="40%" height="40%">
 </p>
 
 # EducaCubo
