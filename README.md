@@ -16,6 +16,12 @@
 
 O Educa Cubo é um aplicativo para auxiliar o professor em sua aula presencial ou a distância de uma forma acessível, através de equipamentos que o aluno tenha acesso como celular ou computador com webcam.
 
+
+
+https://github.com/user-attachments/assets/adf8ca9a-b8a9-47dc-a2f4-0cdabb22bba4
+
+
+
 Para início o aplicativo contará com uma biblioteca de objetos 3D que atendam as  ODS da ONU e também permitirá que o professor faça upload de seus próprios materiais ou materiais adquiridos de sites como www.turbosquid.com e https://clara.io/.
 
 ### Informações
